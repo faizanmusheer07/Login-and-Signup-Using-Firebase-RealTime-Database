@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661219141381",
+    "firebase_url": "https://login-and-signup-f8bac-default-rtdb.firebaseio.com",
+    "project_id": "login-and-signup-f8bac",
+    "storage_bucket": "login-and-signup-f8bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661219141381:android:a92272e45fe9a0bce7796c",
+        "android_client_info": {
+          "package_name": "com.example.loginandsdignupusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661219141381-1n20t57k3bn1f58utkdrsecao5qgm3v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidkDYiYyOnZwXbu2Jz1UnGkBrZgy5U1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661219141381-1n20t57k3bn1f58utkdrsecao5qgm3v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
